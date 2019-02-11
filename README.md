@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Nice work! Good comments!
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
